@@ -13,7 +13,7 @@ This is to teach you how to optimize your GitHub to stand out from the crowd.
 1. How to create a GitHub profile?
 2. How to add a repository?
 
-
+<!--
 ## Objectives and deliverables
 1. Optimized profile
 2. Profile README
@@ -68,4 +68,4 @@ print("I love Data Analytics")
 
 
 ## Conclusion
-
+-->
