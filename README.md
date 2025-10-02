@@ -22,6 +22,17 @@ This is to teach you how to optimize your GitHub to stand out from the crowd.
 ## Data source
 
 ## Data cleaning 
+```sql
+SELECT
+  profile
+FROM github_table
+WHERE username = "Moyokc"
+Group By year
+```
+
+```python
+print("I love Data Analytics")
+```
 
 ## Data analysis
 
