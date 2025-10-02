@@ -40,6 +40,7 @@ print("I love Data Analytics")
 
 |This is a Table|
 | :------  |
+
 | Column 1 | Colum 2 | Column 3 |
 | :------  | :-----: | -------: |
 |1 | 2 | 3|
