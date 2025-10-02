@@ -38,6 +38,11 @@ print("I love Data Analytics")
 ## Data visualization
 ![This is the image](https://github.com/Moyokc/test/blob/main/Picture1.png)
 
+| Column 1 | Colum 2 | Column 3 |
+| :------  | :-----: | -------: |
+|1 | 2 | 3|
+|4 | 5 | 6 |
+
 
 ## Insights 
 
@@ -67,4 +72,4 @@ print("I love Data Analytics")
 
 
 ## Conclusion
--->
+
