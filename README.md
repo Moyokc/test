@@ -1,6 +1,10 @@
 # Project Title: GitHub Profile Optimization
 
 ## Table Of Contents
+1. [Project overview](#Project-overview)
+2. [Business questions](#Business-questions)
+3. [Recommendations](#Recommendations)
+4. [Conclusion](#Conclusion)
 
 ## Project overview
 This is to teach you how to optimize your GitHub to stand out from the crowd.
@@ -22,7 +26,7 @@ This is to teach you how to optimize your GitHub to stand out from the crowd.
 ## Data analysis
 
 ## Data visualization
-![This is the image](https://www.bing.com/aclick?ld=e8Kdy1iwnRSpqtH7oIx3kO0zVUCUxngozA2qi6di7XyeqUzy7lH_QQuVBnX8msbo_tuQfSxXySQSCM7ZotTnAnXNZcnJxnka8krP3rN_Z7v5u4hHqAjUn_ikSE6EyOjsHGUVRII5sciqiqSLiGin5j_NHaXt2BeGtLXsami-hZWSDq5or6o3zU4e_Egjy4S2aa0GugSA&u=aHR0cHMlM2ElMmYlMmZnb29nbGUtY2hyb21lLmp1c3Rnb29kYXBwLmNvbSUyZmk5NDYlM2Ztc2Nsa2lkJTNkNGRiODM3NDQ3M2MyMTYyOGZhMWM1ZjlhY2I2MDI4MDQ&rlid=4db8374473c21628fa1c5f9acb602804&ntb=1)
+![This is the image](https://github.com/Moyokc/test/blob/main/Picture1.png)
 
 
 ## Insights 
